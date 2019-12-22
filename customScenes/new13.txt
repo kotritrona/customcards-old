@@ -1,0 +1,3 @@
+
+general:select role:lord starter:true maxhp:4 hp:4 
+general:select role:renegade maxhp:4 hp:4 

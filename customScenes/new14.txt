@@ -1,0 +1,3 @@
+
+general:select role:lord starter:true maxhp:10 acquireSkills:jizhi,yingzi,biyue,xiaoji draw:10 
+general:select role:renegade marks:@duanchang*1,@qianxi_black*1,@qianxi_red*1 maxhp:2 hp:1 turned:true chained:true acquireSkills:benghuai,wumou draw:0 

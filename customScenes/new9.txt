@@ -1,0 +1,10 @@
+
+setPile:106,97,10,112,115,7,90,91,9,127,6,4
+general:nos_madai role:renegade starter:true chained:true draw:0 hand:89,15 judge:103 
+general:wis_shuijing role:loyalist marks:@shouye*7 maxhp:1 draw:0 
+general:jiangwei role:loyalist maxhp:1 draw:0 
+general:zhonghui role:rebel maxhp:1 chained:true draw:0 hand:46,48,50 
+general:shensimayi role:rebel marks:@bear*8 maxhp:1 draw:0 
+general:as_mushun role:rebel maxhp:1 acquireSkills:zhiji,hunzi draw:0 
+general:dengai role:rebel maxhp:2 hp:2 draw:0 equip:62,61,67 
+general:sunce role:lord marks:@bear*8,@shouye*8 maxhp:3 hp:3 acquireSkills:zili,zaoxian,zhiji,baiyin,jiehuo draw:0 

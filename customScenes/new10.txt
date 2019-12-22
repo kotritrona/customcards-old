@@ -1,0 +1,12 @@
+
+setPile:4,2,3
+general:select general2:select role:lord starter:true hp:3 chained:true acquireSkills:noswuyan,nosbuqu,hongyan,yicong,feiying draw:0 equip:61,66,69 
+general:dongzhuo general2:bgm_zhaoyun role:rebel maxhp:10 hp:10 chained:true draw:0 equip:55 judge:103 
+general:dongzhuo general2:bgm_zhaoyun role:rebel maxhp:10 hp:10 draw:0 equip:108 
+general:dongzhuo general2:bgm_zhaoyun role:rebel maxhp:10 hp:10 draw:0 equip:57 
+general:dongzhuo general2:bgm_zhaoyun role:rebel maxhp:10 hp:10 draw:0 equip:67,59 
+general:dongzhuo general2:bgm_zhaoyun role:rebel maxhp:10 hp:10 draw:0 equip:68,147 
+general:dongzhuo general2:bgm_zhaoyun role:rebel maxhp:10 hp:10 draw:0 equip:60 
+general:dongzhuo general2:bgm_zhaoyun role:rebel maxhp:10 hp:10 draw:0 equip:58 
+general:dongzhuo general2:bgm_zhaoyun role:rebel maxhp:10 hp:10 draw:0 equip:104 
+general:dongzhuo general2:bgm_zhaoyun role:rebel maxhp:10 hp:4 draw:0 equip:56 

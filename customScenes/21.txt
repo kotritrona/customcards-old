@@ -1,0 +1,3 @@
+
+general:select role:lord starter:true 
+general:nos_madai general2:huangzhong role:rebel maxhp:4 hp:3 equip:65 

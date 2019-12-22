@@ -1,0 +1,11 @@
+
+general:select general2:select role:lord starter:true maxhp:10 hp:4 acquireSkills:xuanfeng,xiaoji,nosqianxi,mashu,shangshi,jijiu,yingzi,biyue,yinghun,lianhuan,paoxiao,yiji,qianxun 
+general:select role:rebel 
+general:select role:rebel 
+general:select role:rebel 
+general:select role:rebel 
+general:select role:rebel 
+general:select role:rebel 
+general:select role:rebel 
+general:select role:rebel 
+general:select role:rebel 

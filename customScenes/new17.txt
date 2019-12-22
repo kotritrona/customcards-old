@@ -1,0 +1,3 @@
+
+general:select role:lord starter:true marks:@fog*1 
+general:select role:rebel:

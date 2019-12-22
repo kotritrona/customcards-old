@@ -1,0 +1,12 @@
+
+setPile:151,116,8,7,6,5,4,3,2,1,0
+general:dingfeng general2:taishici role:rebel starter:true draw:0 equip:60 hand:71,70,119,118,120,133,132,131,130 
+general:daqiao general2:sp_zhugejin role:loyalist draw:1 
+general:daqiao general2:sp_zhugejin role:rebel draw:1 
+general:daqiao general2:sp_zhugejin role:lord draw:1 
+general:daqiao general2:sp_zhugejin role:rebel draw:1 
+general:daqiao general2:sp_zhugejin role:loyalist draw:1 
+general:daqiao general2:sp_zhugejin role:rebel draw:1 
+general:daqiao general2:sp_zhugejin role:loyalist draw:1 
+general:daqiao general2:sp_zhugejin role:rebel draw:1 
+general:daqiao general2:sp_zhugejin role:loyalist draw:1 

@@ -1,0 +1,6 @@
+
+general:select role:lord hp:1 acquireSkills:nosbuqu,jijiu,hongyan 
+general:select role:renegade starter:true acquireSkills:ganglie,neoganglie 
+general:select role:renegade acquireSkills:ganglie,neoganglie 
+general:select role:renegade acquireSkills:ganglie,neoganglie 
+general:select role:renegade acquireSkills:ganglie,neoganglie 

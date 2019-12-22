@@ -1,0 +1,12 @@
+
+setPile:14,13,18,130,91,98,31,30,57,138,146,159,95,94,97,118,123,149,127,73,78,77,6,5,2,1,114,110
+general:select general2:select role:rebel starter:true draw:0 
+general:nos_zhoutai role:loyalist hp:1 chained:true draw:0 
+general:nos_zhoutai role:loyalist hp:1 chained:true draw:0 
+general:nos_zhoutai role:loyalist hp:1 chained:true draw:0 
+general:nos_zhoutai role:loyalist hp:1 chained:true draw:0 
+general:nos_zhoutai role:loyalist hp:1 chained:true draw:0 
+general:nos_zhoutai role:loyalist hp:1 chained:true draw:0 
+general:nos_zhoutai role:loyalist hp:1 chained:true draw:0 
+general:nos_zhoutai role:lord hp:1 chained:true draw:0 
+general:nos_zhoutai role:loyalist hp:1 chained:true draw:0 

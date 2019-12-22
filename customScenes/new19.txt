@@ -1,0 +1,5 @@
+
+setPile:1,0
+general:yujin role:lord maxhp:2 hp:2 draw:0 
+general:wis_huaxiong role:renegade starter:true maxhp:10 hp:10 draw:0 hand:14,13,12,11,10,9,8,7,6,5,4,3,2 
+general:wis_huaxiong role:rebel maxhp:10 hp:10 draw:0 hand:15,128,127,126,125,115,114,113,112,111,20,19,18,17,16 

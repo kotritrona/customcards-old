@@ -1,0 +1,9 @@
+
+general:shenguanyu role:loyalist 
+general:shenguanyu role:rebel 
+general:shenguanyu role:rebel 
+general:shenguanyu role:loyalist 
+general:shenguanyu role:renegade starter:true 
+general:xiaoqiao role:lord acquireSkills:nosshangshi,zaiqi 
+general:shenguanyu role:rebel 
+general:shenguanyu role:rebel 

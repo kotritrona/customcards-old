@@ -1,0 +1,11 @@
+
+general:select general2:select role:lord starter:true maxhp:10 acquireSkills:lijian,nosshangshi,liuli 
+general:shenguanyu general2:xiahoudun role:renegade maxhp:10 
+general:shenguanyu general2:xiahoudun role:renegade maxhp:10 
+general:shenguanyu general2:xiahoudun role:renegade maxhp:10 
+general:shenguanyu general2:xiahoudun role:renegade maxhp:10 
+general:shenguanyu general2:xiahoudun role:renegade maxhp:10 
+general:shenguanyu general2:xiahoudun role:renegade maxhp:10 
+general:shenguanyu general2:xiahoudun role:renegade maxhp:10 
+general:shenguanyu general2:xiahoudun role:renegade maxhp:10 
+general:shenguanyu general2:xiahoudun role:renegade maxhp:10 

@@ -1,0 +1,8 @@
+
+setPile:128,127,126,125,115,114,113,112,111,20,19,6,5,18,17,16,15,8,7,14,13,12,11,10,9,0
+general:caocao role:lord starter:true maxhp:5 chained:true draw:0 judge:103 
+general:shensimayi general2:jiexian_lvmeng role:rebel marks:@bear*4 maxhp:2 hp:2 draw:0 equip:65 hand:1,2,3,4 
+general:zhonghui general2:sunce role:rebel maxhp:2 hp:2 chained:true draw:0 
+general:dengai general2:jiangwei role:rebel maxhp:2 hp:2 chained:true draw:0 hand:48,47,50,49 
+general:lukang general2:sp_guanyu role:rebel maxhp:2 hp:1 draw:0 hand:34,33,31,30 
+general:jiexian_xushu general2:wis_shuijing role:rebel marks:@shouye*7 maxhp:2 hp:1 draw:0 equip:64 

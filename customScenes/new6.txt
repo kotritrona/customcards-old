@@ -1,0 +1,11 @@
+
+general:select general2:select role:lord starter:true hp:2 acquireSkills:feiying,yicong 
+general:select general2:select role:renegade 
+general:select general2:select role:renegade 
+general:select general2:select role:renegade 
+general:select general2:select role:renegade 
+general:select general2:select role:renegade 
+general:select general2:select role:renegade 
+general:select general2:select role:renegade 
+general:select general2:select role:renegade 
+general:select general2:select role:renegade 

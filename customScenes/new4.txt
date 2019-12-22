@@ -1,0 +1,11 @@
+
+general:select role:lord starter:true maxhp:10 acquireSkills:benghuai 
+general:xiahoudun general2:shenlvbu role:renegade 
+general:xiahoudun general2:shenlvbu role:renegade 
+general:xiahoudun general2:shenlvbu role:renegade 
+general:xiahoudun general2:shenlvbu role:renegade 
+general:xiahoudun general2:shenlvbu role:renegade 
+general:xiahoudun general2:shenlvbu role:renegade 
+general:xiahoudun general2:shenlvbu role:renegade 
+general:xiahoudun general2:shenlvbu role:renegade 
+general:xiahoudun general2:shenlvbu role:renegade 

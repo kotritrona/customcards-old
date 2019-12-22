@@ -1,0 +1,9 @@
+
+general:shencaocao role:loyalist 
+general:shencaocao role:rebel 
+general:shencaocao role:rebel 
+general:shencaocao role:loyalist 
+general:shencaocao role:renegade starter:true 
+general:shencaocao role:lord 
+general:shencaocao role:rebel 
+general:shencaocao role:rebel 

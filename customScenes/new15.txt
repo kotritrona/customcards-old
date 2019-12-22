@@ -1,0 +1,11 @@
+
+general:select general2:select role:lord starter:true maxhp:10 hp:3 
+general:zhangliao general2:zhoutai role:renegade 
+general:zhangliao general2:zhoutai role:renegade 
+general:zhangliao general2:zhoutai role:renegade 
+general:zhangliao general2:zhoutai role:renegade 
+general:zhangliao general2:zhoutai role:renegade 
+general:zhangliao general2:zhoutai role:renegade 
+general:zhangliao general2:zhoutai role:renegade 
+general:zhangliao general2:zhoutai role:renegade 
+general:zhangliao general2:zhoutai role:renegade 

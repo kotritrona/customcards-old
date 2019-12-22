@@ -1,0 +1,9 @@
+
+general:select general2:select role:rebel starter:true 
+general:select role:lord maxhp:10 hp:10 acquireSkills:niepan,nosbuqu,buqu,fuli 
+general:select role:rebel 
+general:select role:rebel 
+general:select role:rebel 
+general:select role:rebel 
+general:select role:rebel 
+general:select role:rebel 

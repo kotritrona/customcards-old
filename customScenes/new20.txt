@@ -1,0 +1,5 @@
+
+general:dongzhuo general2:liushan role:loyalist starter:true maxhp:10 draw:0 
+general:dongzhuo general2:liushan role:loyalist maxhp:10 draw:0 
+general:zhoutai general2:nos_zhoutai role:rebel turned:true nationality:god 
+general:dongzhuo general2:liushan role:loyalist maxhp:10 draw:0 
